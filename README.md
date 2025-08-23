@@ -1,6 +1,7 @@
 ## Hola 👋🏻 Soy FacKu !
 
 Soy estudiante de Desarrollo Web y Aplicaciones Moviles.
+Junior 1+ de exp
 
 ## 🌐 Socials:
 
